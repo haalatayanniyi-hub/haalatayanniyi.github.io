@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="400" height="150" rx="14" fill="#34231a"/>
+  <path d="M100 30 L145 45 V82 C145 105 125 118 100 128 C75 118 55 105 55 82 V45 Z" fill="#1a0f08" stroke="#ffb04a" stroke-width="4"/>
+  <rect x="85" y="68" width="30" height="24" rx="4" fill="#ffb04a"/><path d="M91 68 v-8 a9 9 0 0 1 18 0 v8" stroke="#ffb04a" stroke-width="4" fill="none"/>
+  <text x="170" y="72" fill="#f8eedf" font-size="36" font-weight="700">ANSSI</text>
+  <text x="172" y="100" fill="#cdb89f" font-size="16">Cybersécurité</text>
+</svg>

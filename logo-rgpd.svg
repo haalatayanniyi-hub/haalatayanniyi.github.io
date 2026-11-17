@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="400" height="150" rx="14" fill="#34231a"/>
+  <circle cx="100" cy="75" r="44" fill="#1a0f08" stroke="#ffb04a" stroke-width="4"/>
+  <g fill="#ffb04a"><circle cx="100" cy="43" r="4"/><circle cx="132" cy="75" r="4"/><circle cx="100" cy="107" r="4"/><circle cx="68" cy="75" r="4"/></g>
+  <path d="M100 58 L116 64 V78 C116 88 109 93 100 97 C91 93 84 88 84 78 V64 Z" fill="#ffb04a"/>
+  <text x="170" y="72" fill="#f8eedf" font-size="36" font-weight="700">RGPD</text>
+  <text x="172" y="100" fill="#cdb89f" font-size="16">Protection des données</text>
+</svg>
